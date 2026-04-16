@@ -184,7 +184,7 @@ streamlit run app.py
 
 ## 🌐 Live Application
 
-👉 https://justmedevesh-disaster-tweet-classifier-app-ydgidq.streamlit.app/
+👉 https://jobmarketanalysisandrecommendationsystem.streamlit.app
 
 ---
 
